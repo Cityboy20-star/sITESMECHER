@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(122, 84, 184);
+}
+td {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: chartreuse;
+}
+table {
+    border-color: rgb(184, 123, 79);
+}
+P {
+    font-size: 600PX;
+}
